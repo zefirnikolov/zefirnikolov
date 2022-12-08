@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **studying**
 
-- 🌱 I’m currently learning **Python,**
+- 🌱 I’m currently learning **Python, Linux Sys Admin, DevOps**
 
 - 👨‍💻 All of my projects are available at [github.com/zefirnikolov](github.com/zefirnikolov)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
