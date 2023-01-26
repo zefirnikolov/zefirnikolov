@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/1xOEA8E.jpeg">
 
-- 🔭 I’m currently working on **studying**
+- 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Python, Linux Sys Admin, DevOps**
+- 🌱 I’m currently learning **Security**
 
 - 👨‍💻 All of my projects are available at [github.com/zefirnikolov](github.com/zefirnikolov)
 
