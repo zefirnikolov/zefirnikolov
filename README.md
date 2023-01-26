@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Security**
 
-- 👨‍💻 All of my projects are available at [github.com/zefirnikolov](github.com/zefirnikolov)
+- 👨‍💻 All of my projects are available at [https://github.com/zefirnikolov](https://github.com/zefirnikolov)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
