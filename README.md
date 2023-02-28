@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevOps**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **New DevOps Solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zefirnikolov](https://github.com/zefirnikolov)
 
