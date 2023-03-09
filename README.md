@@ -3,15 +3,38 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zefirnikolov&label=Profile%20views&color=0e75b6&style=flat" alt="zefirnikolov" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/1xOEA8E.jpeg">
+<img align="right" alt="Coding" width="450" src="https://i.imgur.com/1xOEA8E.jpeg">
 
 - 🔭 I’m currently working on **DevOps**
 
 - 🌱 I’m currently learning **New DevOps Solutions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zefirnikolov](https://github.com/zefirnikolov)
+- 👨‍💻 I have a running K8s cluster(AWS): [https://app.zefirnikolov.com](https://app.zefirnikolov.com)
+- 👨‍💻 I have another running K8s cluster(GCP): [https://www.zefirnikolov.org](https://www.zefirnikolov.org)
+- 👨‍💻 See how they are deployed and my other projects: [https://github.com/zefirnikolov?tab=repositories](https://github.com/zefirnikolov?tab=repositories)
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Certification: </h3>
+<td>
+
+| **Udemy**                                                                            | **Link**                                                              |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <a href="https://www.udemy.com/course/kubernetes-microservices/"> DevOps - Hands-On K8s in AWS </a>                                           | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-54be3127-863e-4622-884b-963512c5a4e8.jpg?v=1678390964000"> Link </a> |
+</td>
+<td>
+
+| **SoftUni**                                                                            | **Link**                                                              |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022"> Python Fundamentals </a>                                                | <a href="https://softuni.bg/certificates/details/148805/6dc487b9"> Link </a> |
+</td>
+<td>
+
+| **SoftUni**                                                           | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/3753/programming-basics-with-csharp-july-2022" > Programming Basics with C# </a>                                                 | <a href="https://softuni.bg/certificates/details/141938/67ddef3b"> Link</a> 
+  
+</td>
+
+
 <p align="left">
 </p>
 
