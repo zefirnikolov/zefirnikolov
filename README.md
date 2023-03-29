@@ -18,6 +18,14 @@
 
 | **Udemy**                                                                            | **Link**                                                              |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4036/devops-containerization-ci-cd-monitoring-january-2023"> DevOps - Containerization, CI/CD & Monitoring </a>                | <a href="https://softuni.bg/certificates/details/164692/64f93793"> Link </a> |
+</td>
+<td>
+  
+<td>
+
+| **Udemy**                                                                            | **Link**                                                              |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | <a href="https://www.udemy.com/course/kubernetes-microservices/"> DevOps - Hands-On K8s in AWS </a>                                           | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-54be3127-863e-4622-884b-963512c5a4e8.jpg?v=1678390964000"> Link </a> |
 </td>
 <td>
