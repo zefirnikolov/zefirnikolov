@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zefirnikolov&label=Profile%20views&color=0e75b6&style=flat" alt="zefirnikolov" /> </p>
 
-<img align="right" alt="Coding" width="451" src="https://i.imgur.com/1xOEA8E.jpeg">
+<img align="right" alt="Coding" width="450" src="https://i.imgur.com/1xOEA8E.jpeg">
 
 - 🔭 I’m currently working on **DevOps**
 
