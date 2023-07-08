@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://i.imgur.com/1xOEA8E.jpeg">
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **DevOps projects**
 
 - 🌱 I’m currently learning **New DevOps Solutions**
 
