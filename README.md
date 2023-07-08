@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **New DevOps Solutions**
 
-- 👨‍💻 I have a running K8s cluster(AWS): [https://app.zefirnikolov.com](https://app.zefirnikolov.com)
+- 👨‍💻 I have a running K8s cluster(Azure AKS): [https://zefirnikolov.com](https://zefirnikolov.com)
+- 👨‍💻 I have another running K8s cluster(AWS): [https://app.zefirnikolov.com](https://app.zefirnikolov.com)
 - 👨‍💻 I have another running K8s cluster(GCP): [https://www.zefirnikolov.org](https://www.zefirnikolov.org)
 - 👨‍💻 See how they are deployed and my other projects: [https://github.com/zefirnikolov?tab=repositories](https://github.com/zefirnikolov?tab=repositories)
 
