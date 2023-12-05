@@ -17,32 +17,10 @@
 <h3 align="left">Certification: </h3>
 <td>
 
-| **Udemy**                                                                            | **Link**                                                              |
+| **The Linux Foundation**                                                                            | **Link**                                                              |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/4036/devops-containerization-ci-cd-monitoring-january-2023"> DevOps - Containerization, CI/CD & Monitoring </a>                | <a href="https://softuni.bg/certificates/details/164692/64f93793"> Link </a> |
+| <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"> Certified Kubernetes Administrator (CKA) </a>                | <a href="https://www.credly.com/badges/56fd2961-0201-49ed-9446-916ff4cefe9e/public_url"> Link </a> |
 </td>
-<td>
-  
-<td>
-
-| **Udemy**                                                                            | **Link**                                                              |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <a href="https://www.udemy.com/course/kubernetes-microservices/"> DevOps - Hands-On K8s in AWS </a>                                           | <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-54be3127-863e-4622-884b-963512c5a4e8.jpg?v=1678390964000"> Link </a> |
-</td>
-<td>
-
-| **SoftUni**                                                                            | **Link**                                                              |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022"> Python Fundamentals </a>                                                | <a href="https://softuni.bg/certificates/details/148805/6dc487b9"> Link </a> |
-</td>
-<td>
-
-| **SoftUni**                                                           | **Link**                                                   |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3753/programming-basics-with-csharp-july-2022" > Programming Basics with C# </a>                                                 | <a href="https://softuni.bg/certificates/details/141938/67ddef3b"> Link</a> 
-  
-</td>
-
 
 <p align="left">
 </p>
