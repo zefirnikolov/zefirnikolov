@@ -14,7 +14,7 @@
 - 👨‍💻 I have another running K8s cluster(GCP): [https://www.zefirnikolov.org](https://www.zefirnikolov.org)
 - 👨‍💻 See how they are deployed and my other projects: [https://github.com/zefirnikolov?tab=repositories](https://github.com/zefirnikolov?tab=repositories)
 
-<h3 align="left">Certification: </h3>
+<h3 align="left">Certifications: </h3>
 <td>
 
 | **The Linux Foundation**                                                                            | **Link**                                                              |
