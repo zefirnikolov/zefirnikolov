@@ -25,7 +25,7 @@
 
 | **Microsoft**                                                                            | **Link**                                                              |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification"> Microsoft Certified: Azure Administrator Associate (aka AZ-104) </a>                | <a href="https://learn.microsoft.com/en-us/users/zefirnikolov-3849/credentials/f239b5c08f8bd17?trk=public_profile_certification-title"> Link </a> |
+| <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification"> Azure Administrator Associate (aka AZ-104) </a>                | <a href="https://learn.microsoft.com/en-us/users/zefirnikolov-3849/credentials/f239b5c08f8bd17?trk=public_profile_certification-title"> Link </a> |
 </td>
 
 <p align="left">
