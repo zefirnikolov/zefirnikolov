@@ -21,6 +21,12 @@
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"> Certified Kubernetes Administrator (CKA) </a>                | <a href="https://www.credly.com/badges/56fd2961-0201-49ed-9446-916ff4cefe9e/public_url"> Link </a> |
 </td>
+<td>
+
+| **Microsoft**                                                                            | **Link**                                                              |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification"> Microsoft Certified: Azure Administrator Associate (aka AZ-104) </a>                | <a href="https://learn.microsoft.com/en-us/users/zefirnikolov-3849/credentials/f239b5c08f8bd17?trk=public_profile_certification-title"> Link </a> |
+</td>
 
 <p align="left">
 </p>
