@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zefir Nikolov</h1>
-<h3 align="center">A passionate DevOps Engineer from Bulgaria</h3>
+<h3 align="center">A senior Cloud Site Reliability Engineer/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zefirnikolov&label=Profile%20views&color=0e75b6&style=flat" alt="zefirnikolov" /> </p>
 
