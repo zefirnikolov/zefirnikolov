@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zefir Nikolov</h1>
-<h3 align="center">A senior Cloud Site Reliability Engineer </h3>
+<h3 align="center">A Cloud Site Reliability Engineering Team Lead </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zefirnikolov&label=Profile%20views&color=0e75b6&style=flat" alt="zefirnikolov" /> </p>
 
@@ -20,6 +20,12 @@
 | **The Linux Foundation**                                                                            | **Link**                                                              |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"> Certified Kubernetes Administrator (CKA) </a>                | <a href="https://www.credly.com/badges/56fd2961-0201-49ed-9446-916ff4cefe9e/public_url"> Link </a> |
+</td>
+<td>
+
+| **Microsoft**                                                                            | **Link**                                                              |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/"> Azure Solutions Architect Expert (aka AZ-305) </a>                | <a href="https://learn.microsoft.com/en-us/users/zefirnikolov-3849/credentials/23cc2a42a09c53c1"> Link </a> |
 </td>
 <td>
 
